@@ -28,7 +28,7 @@ Install PyAutoGUI using:
 
 ```bash
 pip install pyautogui
-
+```
 --- 
 
 ## ▶️ Run the script
