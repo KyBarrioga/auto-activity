@@ -30,9 +30,6 @@ Install PyAutoGUI and Pynput using:
 ```bash
 pip install pyautogui
 ```
-
-Install PyAutoGUI using:
-
 ```bash
 pip install pynput
 ```
