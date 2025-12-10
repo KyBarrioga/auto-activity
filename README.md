@@ -39,5 +39,5 @@ pip install pynput
 ## ▶️ Run the script
 
 ```python
-python mouse_mover.py
+python auto_activity.py
 ```
